@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: instituto
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: andre
+Implementation-Vendor-Id: br.com.apisys
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
